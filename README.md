@@ -51,7 +51,7 @@ Build a Interview Accord App using ReactJS.
 
 - JS
 
-- ReactJS
+- REACTJS
 
 ### At the end of the project, students will be able to;
 
@@ -74,6 +74,7 @@ Build a Interview Accord App using ReactJS.
 - You can add additional functionalitiesto your app.
 
 ## Demo
-  <a href="https://interviewaccord.vercel.app/" target="_blank">React Interview Accord</a>
+
+<a href="https://interviewaccord.vercel.app/" target="_blank">React Interview Accord</a>
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
