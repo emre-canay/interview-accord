@@ -51,7 +51,7 @@ Build a Interview Accord App using ReactJS.
 
 - JS
 
-- REACTJS
+- REACT JS
 
 ### At the end of the project, students will be able to;
 
